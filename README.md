@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Zegyel
 - 👀 I’m interested in Lua and JavaScript
-- 🌱 I’m currently learning Lua and JavaScrip
+- 🌱 I’m currently learning Lua and JavaScript
 - 📫 How to reach me Discord Zegyelツ#1405
