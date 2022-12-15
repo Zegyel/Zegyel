@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Zegyel
 - 👀 I’m interested in Lua and JavaScript
 - 🌱 I’m currently learning Lua and JavaScript
+- 💕 I love FiveM QBCore
 - 📫 How to reach me Discord Zegyelツ#1405
